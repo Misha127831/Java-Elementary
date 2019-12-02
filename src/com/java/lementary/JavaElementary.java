@@ -5,6 +5,8 @@ public class JavaElementary {
         int z=5;
         int d=2;
         int s=z+d;
-        System.out.print(s);
+        char var = 75;
+        System.out.println(var);
+        System.out.println(s);
     }
 }

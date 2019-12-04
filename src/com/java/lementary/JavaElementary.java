@@ -16,7 +16,7 @@ public class JavaElementary {
         System.out.println("Введите второе число:");
         second = read.nextDouble();
         System.out.println();
-        System.out.println("Введите число соответствующее нужному вам жейстивию: 1-Сумма, 2-разница, 3-произведение, 4-деление");
+        System.out.println("Введите число соответствующее нужному вам дейстивию: 1-Сумма, 2-разница, 3-произведение, 4-деление");
         operator = read.nextInt();
 
         if (operator == 1) {
